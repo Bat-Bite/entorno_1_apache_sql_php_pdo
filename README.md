@@ -10,9 +10,9 @@ Basico para arrancar con la parte de programación
 
 ## Crear un archivo .env en donde se encuentra docker-compose.yml con lo siguiente:
 
-MYSQL_DATABASE=xxxxxxxxx
-MYSQL_USER=xxxxxxxxx
-MYSQL_PASSWORD=xxxxxxxxx
-MYSQL_ROOT_PASSWORD=xxxxxxxxx
-MYSQL_SERVER=localhost
-PHP_PORT=8888
+MYSQL_DATABASE=xxxxxxxxx<br>
+MYSQL_USER=xxxxxxxxx<br>
+MYSQL_PASSWORD=xxxxxxxxx<br>
+MYSQL_ROOT_PASSWORD=xxxxxxxxx<br>
+MYSQL_SERVER=localhost<br>
+PHP_PORT=8888<br>
